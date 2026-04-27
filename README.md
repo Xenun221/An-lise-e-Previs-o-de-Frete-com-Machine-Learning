@@ -13,23 +13,29 @@ Tecnologias Utilizadas:
 -Scikit-learn
 
 🧠 Etapas do Projeto
+
 🔹 1. Extração de Dados
+
 Conexão com banco MySQL
 Execução de query com JOIN entre tabelas
 Importação direta para DataFrame (Pandas)
+
 🔹 2. Tratamento de Dados
 Organização dos dados
 Agrupamento por zona de atuação
 Cálculo de faturamento total por região
+
 🔹 3. Análise Exploratória
 Identificação da zona com maior faturamento
 Visualização de padrões de receita
+
 🔹 4. Machine Learning
 Modelo utilizado: Regressão Linear
 Variáveis:
 Entrada (X): Distância (KM)
 Saída (Y): Valor do Frete
 Treinamento do modelo com dados reais
+
 🔹 5. Visualização (Dashboard)
 Indicadores principais (KPIs)
 Gráfico de regressão
