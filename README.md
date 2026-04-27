@@ -1,4 +1,4 @@
-# An-lise-e-Previs-o-de-Frete-com-Machine-Learning
+# Analise-e-Previsao-de-Frete-com-Machine-Learning
 Este projeto tem como objetivo realizar a análise de dados logísticos e a previsão de valores de frete utilizando técnicas de Machine Learning.
 
 Os dados são extraídos diretamente de um banco de dados MySQL, tratados com Python e analisados para gerar insights de negócio.
